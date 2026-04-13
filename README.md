@@ -195,6 +195,8 @@ This project is released under the **MIT License**.
 ---
 
 ## 👤 Author
+**Tolga**
+Computer Engineering Student
 **Vefa**  
 Computer Engineering Student  
 Focus areas: Deep Learning, Computer Vision, Explainable AI
